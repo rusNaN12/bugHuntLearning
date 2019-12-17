@@ -1,0 +1,5 @@
+hacking 101 - https://leanpub.com/web-hacking-101 --- its a collection of bugs for each class with description good start book (if you register to hacker one you get a free pdf copy :) )
+The Web Application Hacker's Handbook -- https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470 -- descipbe step by step metotology from recon to attaka its a must book for any web security pratitioner
+Web Application Security, A Beginner's Guide -- https://www.amazon.com/Web-Application-Security-Beginners-Guide/dp/0071776168?ref_=fsclp_pl_dp_1 -- nice one has more like developer approach to book
+The Hacker Playbook 3: Practical Guide To Penetration Testing - https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/ -- this one covers all sort of pentest 
+
